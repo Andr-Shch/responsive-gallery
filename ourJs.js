@@ -45,14 +45,5 @@ function makeUser(name, surname){
         surname
     };
 };
-const user = makeUser("Jhon", "Smith");
 
-user.dolce = "Vita"
-
-
-let getName = "dolce";
-user.name= 'Robot';
-for(let ke in user){
-   // alert(user[ke])
-}
 
